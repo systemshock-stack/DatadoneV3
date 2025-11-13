@@ -1,7 +1,7 @@
 # DatadoneV3 – Enterprise AI Sentiment Analytics
 
 > **Turn 10 000 customer feedback items into actionable marketing insights in < 24 h.**  
-> Built with **Python + Transformers + Streamlit** and powered by your RTX 3080 GPU.
+> Built with **Python + Transformers + Streamlit** and powered by your GPU.
 
 ---
 

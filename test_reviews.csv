@@ -1,0 +1,11 @@
+source,channel,timestamp,text
+Amazon,product_reviews,2024-01-01 10:30:00,"Absolutely love this product! Best purchase I've made this year. Highly recommend to everyone."
+Amazon,product_reviews,2024-01-02 14:22:00,"Terrible quality. Stopped working after 2 days. Complete waste of money!"
+Twitter,social_media,2024-01-03 09:15:00,"Pretty good overall. The interface could be better but customer service was helpful."
+Trustpilot,reviews,2024-01-04 16:45:00,"EXCELLENT! Fast shipping and amazing quality. Will definitely buy again."
+Google,reviews,2024-01-05 11:20:00,"Not worth the money, disappointed. The product doesn't match the description."
+Amazon,product_reviews,2024-01-06 13:33:00,"Average product. Does the job but nothing special. Price is reasonable."
+Twitter,social_media,2024-01-07 19:55:00,"OMG this is INCREDIBLE! 🎉 Game changer for my workflow!"
+Trustpilot,reviews,2024-01-08 08:12:00,"Poor build quality. Fell apart within a week. Would not recommend."
+Google,reviews,2024-01-09 15:30:00,"Solid product. Works as advertised. Good value for money."
+Amazon,product_reviews,2024-01-10 20:18:00,"ABSOLUTELY PERFECT! Exactly what I needed. 5 stars all the way!"
